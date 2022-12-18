@@ -1,0 +1,6 @@
+PasswordLength: 12
+allowSymbols: 1
+allowNumbers: 1
+allowLowercase: 1
+allowUppercase: 1
+allowSimilar: 0
